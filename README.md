@@ -17,7 +17,7 @@ Includes:
 
 ## Table of Contents
 
-<kbd></kbd> &nbsp;&nbsp; [Installing Perforce](installing/README.md#user-content-installing-perforce) <br>
+<kbd></kbd> &nbsp;&nbsp; [Installing Perforce](installing/README.md#user-content-installing-p4v) <br>
 <kbd></kbd> &nbsp;&nbsp; [Workspaces](workspaces/README.md#user-content-workspaces-in-p4v) <br>
 <kbd></kbd> &nbsp;&nbsp; [Copying Homework](homework/README.md#user-content-copying-homework) <br>
 <!-- <kbd></kbd> &nbsp;&nbsp; [Variables](variables/README.md#user-content-gms2-variables) <br>
