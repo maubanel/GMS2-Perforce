@@ -56,7 +56,7 @@ Select the **Advanced** tab.  Set **Modtime: ...** to `true` so that the timezon
 
 ##### `Step 6.`\|`GMP`| :small_orange_diamond: :small_blue_diamond:
 
-Select the **Workspaces** tab and go to the top of the directory.  Press the <kbd>Get Latest</kbd> button on the top menu. This will create a directory and get all the folders in it.  Be patient, this could take a while if the project is large.
+Select the **Workspaces** tab and go to the top of the directory.  Press the <kbd>Get Latest</kbd> button on the top menu. This will create a directory and get all the folders in it (it might have already downloaded this when you performed the last step).  
 
 ![get latest from workspace](images/getLatest.png)
 
@@ -64,29 +64,28 @@ Select the **Workspaces** tab and go to the top of the directory.  Press the <kb
 
 ##### `Step 7.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now next time you run **p4v** you can select **Browse** next to **Workspace:** and select the workspace you want.  In this case it is **p4** and then I will press the <kbd>OK</kbd> button.  Then you are loaded into this workspace when it opens.
 
+![open project in workspace](images/loadWorspaceOnBoot.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now next time you run **p4v** you can select **Browse** next to **Workspace:** and select the workspace you want.  In this case it is **p4** and then I will press the <kbd>OK</kbd> button.  Then you are loaded into this workspace when it opens.
 
+![open project in workspace](images/loadWorspaceOnBoot.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you will see all the **Depots** that you subscribed to in this **Workspace** in the folder you set it up in.
-
-![see files downloaded in workspace](images/seeDepots.png)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`GMP`| :large_blue_diamond:
 
-Now next time you run **p4v** you can select **Browse** next to **Workspace:** and select the workspace you want.  In this case it is **p4** and then I will press the <kbd>OK</kbd> button.  Then you are loaded into this workspace when it opens.
 
-![open project in workspace](images/loadWorspaceOnBoot.png)
 
 ![](../images/line2.png)
 
