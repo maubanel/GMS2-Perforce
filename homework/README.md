@@ -24,7 +24,7 @@ Now you need to move the **GameMaker** project folder you were working on into t
 
 Log back into **P4V** and enter your workspace (or create a new one if you are on a new computer).  Press the <kbd>Refresh</kbd> button and make sure you now see your folder containing your **GameMaker** project.
 
-![alt text](images/refreshP4.png)
+![refresh perforce](images/refreshP4.png)
 
 ![](../images/line3.png)
 
