@@ -46,7 +46,9 @@ Go to the **Pending** tab (if you don't see it you can select **View | Pending**
 
 ##### `Step 5.`\|`GMP`| :small_orange_diamond:
 
-![alt text](images/submit.png)
+Select the pending sumbmission and select the <kbd>Submit</kbd> button.  Press the <kbd>Submit</kbd> button on the pop-up.
+
+![submit added files](images/submit.png)
 
 ![](../images/line3.png)
 
