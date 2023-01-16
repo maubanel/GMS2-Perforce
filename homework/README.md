@@ -14,7 +14,7 @@ Lets submit your homework to Perforce so it can be graded!
 
 ##### `Step 1.`\|`GMP`|:small_blue_diamond:
 
-Now you need to move the **GameMaker** project folder you were working on into the **Perforce** workspace that you have just created with the single **Readme** file.  Move the entire folder into this workspace as you will have all of your gamemaker games in this folder.
+Now you need to move the **GameMaker** project folder you were working on into the **Perforce** workspace that you have just created with the single **Readme** file.  I called my project `GettingStarted`. Move the entire folder into this workspace as you will have all of your gamemaker games in this folder.
 
 ![move game maker project over](images/moveProjectFolder.png)
 
@@ -22,7 +22,9 @@ Now you need to move the **GameMaker** project folder you were working on into t
 
 ##### `Step 2.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+Log back into **P4V** and enter your workspace (or create a new one if you are on a new computer).  Press the <kbd>Refresh</kbd> button and make sure you now see your folder containing your **GameMaker** project.
+
+![alt text](images/refreshP4.png)
 
 ![](../images/line3.png)
 
