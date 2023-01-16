@@ -54,14 +54,16 @@ Go to the **Pending** tab (if you don't see it you can select **View | Pending**
 
 ![alt text](images/confirmInDepot.png)
 
-___
+| `gms2.variables`\|`THE END`| 
+| :--- |
+| **That's All Folks!** That's it for variables. |
+
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Title"> -->
-![next up workspaces](images/banner.png)
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=The End!"> -->
+![The End"](images/banner.png)
 
 ![](../images/line.png)
-
 | [previous](../workspaces/README.md#user-content-workspaces-in-p4v)| [home](../README.md#user-content-gamemaker-studio-2-perforce) | 
 |---|---|
