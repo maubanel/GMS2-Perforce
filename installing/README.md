@@ -2,7 +2,7 @@
 
 ### Installing P4V
 
-[home](../README.md#user-content-p4v)</sub>
+[home](../README.md#user-content-gamemaker-studio-2-perforce)</sub>
 
 ![](../images/line3.png)
 
@@ -63,98 +63,7 @@ If the password was assigned you will need to change it for a more secure passwo
 
 ![](../images/line.png)
 
-![Installing P4V](images/installingP4V.png)
+![Installing P4V](images/banner.png)
 
 ![](../images/line.png)
 
-##### `Step 7.`\|`GMT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 8.`\|`GMT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 9.`\|`GMT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 10.`\|`GMT`| :large_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 11.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-
-##### `Step 12.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 13.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 14.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 15.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 16.`\|`GMT`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 17.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 18.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 19.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 20.`\|`GMT`| :large_blue_diamond: :large_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 21.`\|`GMT`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-| [home](../README.md#user-content-p4v)  |
-|---|
