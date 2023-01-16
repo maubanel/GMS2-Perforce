@@ -49,7 +49,7 @@ Run **P4V** and use the same **Server** and port by entering `ssl:helixcore.cct.
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-When it loads up go to the **Depot** tab.  This is all the projects that you have access to that are on the server (cloud). If you have already used it you will see other **Depot's** but everyone should see a depot called `2023-Spring-ART-4240-01-GMS2` and should have access to a folder with your username and a single **README.txt** file in it.
+When it loads up go to the **Depot** tab.  This is all the projects that you have access to that are on the server (cloud). If you have already used it you will see other **Depot's** but everyone should see a depot called `2023-Spring-ART-4240-01-GMS2` and should have access to a folder with your username inside the `mainline` stream and a single **README.txt** file in it.
 
 ![perforce projects](images/perforceSS.png)
 
