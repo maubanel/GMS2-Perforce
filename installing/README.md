@@ -2,7 +2,7 @@
 
 ### Installing P4V
 
-[home](../README.md#user-content-gamemaker-studio-2-perforce)</sub>
+<sub>[home](../README.md#user-content-gamemaker-studio-2-perforce)• [next](../data-types/README.md#user-content-gms2-data-types)</sub>
 
 ![](../images/line3.png)
 
@@ -57,13 +57,13 @@ When it loads up go to the **Depot** tab.  This is all the projects that you hav
 
 ##### `Step 6.`\|`GMT`| :small_orange_diamond: :small_blue_diamond:
 
-If the password was assigned you will need to change it for a more secure password.  In **P4V** select **Connection | Change Password** and enter the assigned password and come up with a new one.  It needs to be at least 8 characters with an upper and lower case letter plus one or more symbols or numbers. Now you are ready to create a Workspace.
-
-![change password](images/changePassword.png)
+You can now run P4V and create a new **Workspace** which is the next step.
 
 ![](../images/line.png)
 
 ![Installing P4V](images/banner.png)
 
 ![](../images/line.png)
+
+
 
