@@ -54,7 +54,7 @@ Go to the **Pending** tab (if you don't see it you can select **View | Pending**
 
 ![alt text](images/confirmInDepot.png)
 
-| `gms2.variables`\|`THE END`| 
+| `gms2.gms2perforce`\|`THE END`| 
 | :--- |
 | **That's All Folks!** That's it for setting up Perforce. |
 
