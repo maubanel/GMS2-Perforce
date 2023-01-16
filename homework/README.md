@@ -30,7 +30,9 @@ Log back into **P4V** and enter your workspace (or create a new one if you are o
 
 ##### `Step 3.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Make sure you are in the **Workspace** tab.  Select the uppermost folder (your LSU username) and press the <kbd>Add</kbd> button.  Select `New` and type in a message describing the work done.  Press the <kbd>OK</kbd> button.
+
+![add files to project](images/addFiles.png)
 
 ![](../images/line3.png)
 
