@@ -22,7 +22,7 @@ Now you need to move the **GameMaker** project folder you were working on into t
 
 ##### `Step 2.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: 
 
-Log back into **P4V** and enter your workspace (or create a new one if you are on a new computer).  Press the <kbd>Refresh</kbd> button and make sure you now see your folder containing your **GameMaker** project.
+Log back into **P4V** and enter your workspace (or create a new one if you are on a new computer).  Make sure you are on the **Workspace** tab. Press the <kbd>Refresh</kbd> button and make sure you now see your folder containing your **GameMaker** project.
 
 ![refresh perforce](images/refreshP4.png)
 
