@@ -56,7 +56,9 @@ Select the **Advanced** tab.  Set **Modtime: ...** to `true` so that the timezon
 
 ##### `Step 6.`\|`GMP`| :small_orange_diamond: :small_blue_diamond:
 
+Select the **Workspaces** tab and go to the top of the directory.  Press the <kbd>Get Latest</kbd> button on the top menu. This will create a directory and get all the folders in it.  Be patient, this could take a while if the project is large.
 
+![get latest from workspace](images/getLatest.png)
 
 ![](../images/line2.png)
 
@@ -68,9 +70,7 @@ Select the **Advanced** tab.  Set **Modtime: ...** to `true` so that the timezon
 
 ##### `Step 8.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select the **Workspaces** tab and go to the top of the directory.  Press the <kbd>Get Latest</kbd> button on the top menu. This will create a directory and get all the folders in it.  Be patient, this could take a while if the project is large.
 
-![get latest from workspace](images/getLatest.png)
 
 ![](../images/line2.png)
 
