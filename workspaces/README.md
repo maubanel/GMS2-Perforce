@@ -40,7 +40,7 @@ Now you get a pop up that has all the depots that you have permission to subscri
 
 ##### `Step 4.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Come up with your own workspace name.  I usually combine the name of the stream and name the computer it is for (laptop, desktop etc...).  It defaults to your user directory which will work for me, but you can change it. If you want to connect to a stream depot you can only set up a single workspace to a single streamed project.  Click on the <kbd>Browse</kbd> button and select the stream you want to subscribe to (includes the name and the branch/stream). You can switch streams later on.
+Come up with your own **Workspace name**.  I usually combine the name of the stream and name the computer it is for (laptop, desktop etc...). In this case I used `ART4240Homework`. It defaults to your user directory which will work for me, but you can change it. I used a folder name that matches the workspace `Users/marcauabanel/Perforce/ART4240Homework`. Press the <kbd>Browse</kbd> button in the **Stream** and select `//2023-SPrint-ART-4240-01-GMS2/mainline).  **Don't** press the <kbd>OK</kbd> yet.
 
 ![set up stream](images/setUpStream.png)
 
