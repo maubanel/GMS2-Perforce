@@ -64,9 +64,11 @@ Select the **Workspaces** tab and go to the top of the directory.  Press the <kb
 
 ##### `Step 7.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now next time you run **p4v** you can select **Browse** next to **Workspace:** and select the workspace you want.  In this case it is **p4** and then I will press the <kbd>OK</kbd> button.  Then you are loaded into this workspace when it opens.
+Now you will see all the **Depots** that you subscribed to in this **Workspace** in the folder you set it up in.
 
-![open project in workspace](images/loadWorspaceOnBoot.png)
+![see files downloaded in workspace](images/seeDepots.png)
+
+
 
 ![](../images/line2.png)
 
@@ -75,6 +77,7 @@ Now next time you run **p4v** you can select **Browse** next to **Workspace:** a
 Now next time you run **p4v** you can select **Browse** next to **Workspace:** and select the workspace you want.  In this case it is **p4** and then I will press the <kbd>OK</kbd> button.  Then you are loaded into this workspace when it opens.
 
 ![open project in workspace](images/loadWorspaceOnBoot.png)
+
 
 ![](../images/line2.png)
 
