@@ -16,7 +16,7 @@ Lets submit your homework to Perforce so it can be graded!
 
 Now you need to move the **GameMaker** project folder you were working on into the **Perforce** workspace that you have just created with the single **Readme** file.  Move the entire folder into this workspace as you will have all of your gamemaker games in this folder.
 
-![move game maker project over](images/moveProjectFolder.png)
+![move game maker project over](images/moveProjectFolder.jpg)
 
 ![](../images/line3.png)
 
