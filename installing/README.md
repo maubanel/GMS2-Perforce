@@ -13,13 +13,13 @@ There are three main applications to install.  **P4V** which is tthe GUI control
 ---
 
 
-##### `Step 1.`\|`BTS`|:small_blue_diamond:
+##### `Step 1.`\|`GMP`|:small_blue_diamond:
 
 You can use Peforce on and off campus and you do not need to use a VPN.  
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`GMT`|:small_blue_diamond: :small_blue_diamond: 
 
 Download [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) which is the GUI manager that should work for most issues that arise.  
 
@@ -27,7 +27,7 @@ Download [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) which
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`GMT`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Double click the `p4vinst64.msi` (.msi for pc and .dmg for mac) file. Install at least the **Helix Visual Client (P4V)** and **Command Line Client (P4)**.  The **Merge and Diff Tool** and **Administration Tool** are optional.
 
@@ -37,7 +37,7 @@ Then for **Server** enter `ssl:helixcore.cct.lsu.edu:1818`, **Username** use you
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`GMT`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Run **P4V** and use the same **Server** and port by entering `ssl:helixcore.cct.lsu.edu:1818`, and use your lsu **User** id *without* the @lsu.edu. We will leave the **Workspace** blank and login to the perforce server. Press the <kbd>OK</kbd> button. It will ask you to validate the fingerprint.  That fingerprint should be `13:57:CE:06:14:E9:3A:72:84:B1:41:A3:BF:CC:17:A2:85:D7:AA:891`.  Accept this request. Use your mylsu password that you use to login to all of LSU's services. 
 
@@ -47,7 +47,7 @@ Run **P4V** and use the same **Server** and port by entering `ssl:helixcore.cct.
 
 ![](../images/line2.png)
 
-##### `Step 5.`\|`BTS`| :small_orange_diamond:
+##### `Step 5.`\|`GMT`| :small_orange_diamond:
 
 When it loads up go to the **Depot** tab.  This is all the projects that you have access to that are on the server (cloud). If you have already used it you will see other **Depot's** but everyone should see a depot called `2023-Spring-ART-4240-01-GMS2` and should have access to a folder with your username inside the `mainline` stream and a single **README.txt** file in it.
 
@@ -55,18 +55,106 @@ When it loads up go to the **Depot** tab.  This is all the projects that you hav
 
 ![](../images/line2.png)
 
-##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 6.`\|`GMT`| :small_orange_diamond: :small_blue_diamond:
 
 If the password was assigned you will need to change it for a more secure password.  In **P4V** select **Connection | Change Password** and enter the assigned password and come up with a new one.  It needs to be at least 8 characters with an upper and lower case letter plus one or more symbols or numbers. Now you are ready to create a Workspace.
 
 ![change password](images/changePassword.png)
-
 
 ![](../images/line.png)
 
 ![Installing P4V](images/installingP4V.png)
 
 ![](../images/line.png)
+
+##### `Step 7.`\|`GMT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 8.`\|`GMT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 9.`\|`GMT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 10.`\|`GMT`| :large_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 11.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: 
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+
+##### `Step 12.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 13.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 14.`\|`GMT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 15.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: 
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 16.`\|`GMT`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 17.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 18.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 19.`\|`GMT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 20.`\|`GMT`| :large_blue_diamond: :large_blue_diamond:
+
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 21.`\|`GMT`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+![alt text](images/.png)
 
 | [home](../README.md#user-content-p4v)  |
 |---|
