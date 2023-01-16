@@ -2,7 +2,7 @@
 
 ### Installing P4V
 
-<sub>[home](../README.md#user-content-gamemaker-studio-2-perforce)• [next](../data-types/README.md#user-content-gms2-data-types)</sub>
+<sub>[home](../README.md#user-content-gamemaker-studio-2-perforce)• [next](../workspaces/README.md#user-content-workspaces-in-p4v)</sub>
 
 ![](../images/line3.png)
 
@@ -66,5 +66,5 @@ You can now run P4V and create a new **Workspace** which is the next step.
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up) | [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../data-types/README.md#user-content-gms2-data-types)|
+| [previous](../setting-up/README.md#user-content-setting-up) | [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../workspaces/README.md#user-content-workspaces-in-p4v)|
 |---|---|---|

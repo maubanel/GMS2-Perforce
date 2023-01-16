@@ -2,7 +2,7 @@
 
 ### Workspaces in P4V
 
-<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-gamemaker-studio-2-perforce) • [next](../data-types/README.md#user-content-gms2-data-types)</sub>
+<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-gamemaker-studio-2-perforce) • [next](../homework/README.md#user-content-copying-homework)</sub>
 
 ![](../images/line3.png)
 
@@ -92,5 +92,5 @@ If you are not in a workspace or in the wrong workspace you can switch to it by 
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up) | [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../data-types/README.md#user-content-gms2-data-types)|
+| [previous](../setting-up/README.md#user-content-setting-up) | [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../homework/README.md#user-content-copying-homework)|
 |---|---|---|
