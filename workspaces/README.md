@@ -2,13 +2,11 @@
 
 ### Workspaces in P4V
 
-<sub>[home](../README.md#user-content-p4v)</sub>
+<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-gamemaker-studio-2-perforce) • [next](../data-types/README.md#user-content-gms2-data-types)</sub>
 
 ![](../images/line3.png)
 
-**Depots** contain the project(s) that you have access to either read, write or both.  They live on the Helix server.  To work you need to have those files locally.  In **Perforce** this is a called a **workspace**.  You can have as many workspaces as you like, but one will suffice. Please note you cannot share workspaces between machines, it is one workspace per computer/login.
-
-Follow this entire walk through if you do not have a workspace on your computer.  Please note that you can have as many projects in a single workspace as you like.  If you are using regular perforce workspaces **AND** streams you will needa separate workspace for regular spaces and one for streams.
+**Depots** contain the project(s) that you have access to either read, write or both.  They live on the Helix server.  To work you need to have those files locally.  In **Perforce** this is a called a **workspace**.  You can have as many workspaces as you like but you need one workspace per stream.  Also, your workspace is only valid on a single computer, so you need a workspace for each computer you are working on.
 
 ![topology of a perforce server](images/topology.png)
 
