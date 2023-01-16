@@ -61,9 +61,10 @@ You can now run P4V and create a new **Workspace** which is the next step.
 
 ![](../images/line.png)
 
-![Installing P4V](images/banner.png)
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Workspaces"> -->
+![next up workspaces](images/banner.png)
 
 ![](../images/line.png)
 
-
-
+| [previous](../setting-up/README.md#user-content-setting-up) | [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../data-types/README.md#user-content-gms2-data-types)|
+|---|---|---|
