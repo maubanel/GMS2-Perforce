@@ -40,7 +40,7 @@ Now you get a pop up that has all the depots that you have permission to subscri
 
 ##### `Step 4.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-If you want to connect to a stream depot you can only set up a single workspace to a single streamed project.  Click on the <kbd>Browse</kbd> button and select the stream you want to subscribe to (includes the name and the branch/stream). You can switch streams later on.
+Come up with your own workspace name.  I usually combine the name of the stream and name the computer it is for (laptop, desktop etc...).  It defaults to your user directory which will work for me, but you can change it. If you want to connect to a stream depot you can only set up a single workspace to a single streamed project.  Click on the <kbd>Browse</kbd> button and select the stream you want to subscribe to (includes the name and the branch/stream). You can switch streams later on.
 
 ![set up stream](images/setUpStream.png)
 
