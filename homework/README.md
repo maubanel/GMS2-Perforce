@@ -38,7 +38,9 @@ Make sure you are in the **Workspace** tab.  Select the uppermost folder (your L
 
 ##### `Step 4.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Go to the **Pending** tab (if you don't see it you can select **View | Pending**) to add it to the window.  You should now see the commit message you made. Your pending number will be different.
+
+![show pending list](images/p4Pending.png)
 
 ![](../images/line3.png)
 
