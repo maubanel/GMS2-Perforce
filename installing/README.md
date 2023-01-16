@@ -21,7 +21,7 @@ You can use Peforce on and off campus and you do not need to use a VPN.
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
-Download [P4V]([Peforce](https://www.perforce.com/downloads/helix-visual-client-p4v) which is the GUI manager that should work for most issues that arise.  
+Download [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) which is the GUI manager that should work for most issues that arise.  
 
 ![download p4v installer from perforce](images/downloadHelix.png)
 
