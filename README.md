@@ -18,9 +18,9 @@ Includes:
 ## Table of Contents
 
 <kbd></kbd> &nbsp;&nbsp; [Installing Perforce](installing/README.md#user-content-installing-perforce) <br>
-<kbd></kbd> &nbsp;&nbsp; [Workspaces](workspaces/README.md#user-content-workspaces) <br>
-<kbd></kbd> &nbsp;&nbsp; [Data Types](data-types/README.md#user-content-gms2-data-types) <br>
-<!-- <kbd></kbd> &nbsp;&nbsp; [Variables](variables/README.md#user-content-gms2-variables) <br>
+<kbd></kbd> &nbsp;&nbsp; [Workspaces](workspaces/README.md#user-content-workspaces-in-p4v) <br>
+<!-- <kbd></kbd> &nbsp;&nbsp; [Data Types](data-types/README.md#user-content-gms2-data-types) <br>
+<kbd></kbd> &nbsp;&nbsp; [Variables](variables/README.md#user-content-gms2-variables) <br>
 <kbd></kbd> &nbsp;&nbsp; [If Statements](if-statements/README.md#user-content-gms2-if-statements) <br>
 <kbd></kbd> &nbsp;&nbsp; [Loops](loops/README.md#user-content-gms2-loops) <br>
 <kbd></kbd> &nbsp;&nbsp; [Screen Positioning I](positioning-text-1/README.md#user-content-screen-positioning-i) <br> -->
