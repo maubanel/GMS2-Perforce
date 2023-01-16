@@ -56,7 +56,7 @@ Go to the **Pending** tab (if you don't see it you can select **View | Pending**
 
 | `gms2.variables`\|`THE END`| 
 | :--- |
-| **That's All Folks!** That's it for variables. |
+| **That's All Folks!** That's it for setting up Perforce. |
 
 
 ![](../images/line.png)
