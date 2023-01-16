@@ -64,11 +64,9 @@ Select the **Workspaces** tab and go to the top of the directory.  Press the <kb
 
 ##### `Step 7.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you will see all the **Depots** that you subscribed to in this **Workspace** in the folder you set it up in.
+Now you will see the one folder and file that are in this new **Workspace**. You can navigate to the folder you installed it in and see that the **Workspace** is showing you what is in the depot.  We have now succesfully set up your workspace.
 
 ![see files downloaded in workspace](images/seeDepots.png)
-
-
 
 ![](../images/line2.png)
 
@@ -83,6 +81,9 @@ Now next time you run **p4v** you can select **Browse** next to **Workspace:** a
 
 ##### `Step 9.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+If you are not in a workspace or in the wrong workspace you can switch to it by select **Connection** and then `Switch to Workspace`. You will then select the workspace you would like to switch to.
+
+![switch to workspace](images/switchToWorkspace.png)
 
 ![](../images/line2.png)
 
@@ -94,9 +95,7 @@ Now next time you run **p4v** you can select **Browse** next to **Workspace:** a
 
 ##### `Step 11.`\|`GMP`| :large_blue_diamond: :small_blue_diamond: 
 
-If you are not in a workspace or in the wrong workspace you can switch to it by select **Connection** and then `Switch to Workspace`. You will then select the workspace you would like to switch to.
 
-![switch to workspace](images/switchToWorkspace.png)
 
 ![](../images/line2.png)
 
