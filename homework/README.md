@@ -54,7 +54,9 @@ Select the pending sumbmission and select the <kbd>Submit</kbd> button.  Press t
 
 ##### `Step 6.`\|`GMP`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/confirmInDepot.png)
+The final step is to make sure that everything got copied to the **Depot**.  As this is what I will be accessing to grade.  Select the **Depot** and you should now see the same files that were in your workspace.
+
+![confirm files in depot](images/confirmInDepot.png)
 
 | `gms2.gms2perforce`\|`THE END`| 
 | :--- |
