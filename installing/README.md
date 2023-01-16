@@ -66,5 +66,5 @@ You can now run P4V and create a new **Workspace** which is the next step.
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up) | [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../workspaces/README.md#user-content-workspaces-in-p4v)|
-|---|---|---|
+| [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../workspaces/README.md#user-content-workspaces-in-p4v)|
+|---|---|
