@@ -2,7 +2,7 @@
 
 ### Copying Homework
 
-<sub>[previous](../workspaces/README.md#user-content-workspaces-in-p4v) • [home](../README.md#user-content-gamemaker-studio-2-perforce) • [next](../)</sub>
+<sub>[previous](../workspaces/README.md#user-content-workspaces-in-p4v) • [home](../README.md#user-content-gamemaker-studio-2-perforce) </sub>
 
 ![](../images/line3.png)
 
@@ -18,7 +18,7 @@ Now you need to move the **GameMaker** project folder you were working on into t
 
 ![move game maker project over](images/moveProjectFolder.png)
 
-![](../images/line3.png)
+![](../images/line2.png)
 
 ##### `Step 2.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -26,7 +26,7 @@ Log back into **P4V** and enter your workspace (or create a new one if you are o
 
 ![refresh perforce](images/refreshP4.png)
 
-![](../images/line3.png)
+![](../images/line2.png)
 
 ##### `Step 3.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -34,7 +34,7 @@ Make sure you are in the **Workspace** tab.  Select the uppermost folder (your L
 
 ![add files to project](images/addFiles.png)
 
-![](../images/line3.png)
+![](../images/line2.png)
 
 ##### `Step 4.`\|`GMP`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -42,108 +42,17 @@ Go to the **Pending** tab (if you don't see it you can select **View | Pending**
 
 ![show pending list](images/p4Pending.png)
 
-![](../images/line3.png)
+![](../images/line2.png)
 
 ##### `Step 5.`\|`GMP`| :small_orange_diamond:
 
-![alt text](images/.png)
+![alt text](images/submit.png)
 
 ![](../images/line3.png)
 
 ##### `Step 6.`\|`GMP`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 7.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 8.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 9.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 10.`\|`GMP`| :large_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 11.`\|`GMP`| :large_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-
-##### `Step 12.`\|`GMP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 13.`\|`GMP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 14.`\|`GMP`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 15.`\|`GMP`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 16.`\|`GMP`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 17.`\|`GMP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 18.`\|`GMP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 19.`\|`GMP`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 20.`\|`GMP`| :large_blue_diamond: :large_blue_diamond:
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 21.`\|`GMP`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
+![alt text](images/confirmInDepot.png)
 
 ___
 
@@ -154,5 +63,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../workspaces/README.md#user-content-workspaces-in-p4v)| [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../)|
-|---|---|---|
+| [previous](../workspaces/README.md#user-content-workspaces-in-p4v)| [home](../README.md#user-content-gamemaker-studio-2-perforce) | 
+|---|---|
