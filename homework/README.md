@@ -2,7 +2,7 @@
 
 ### Homework
 
-<sub>[previous](../) • [home](../README.md#user-content-gamemaker-studio-2-perforce) • [next](../)</sub>
+<sub>[previous](../workspaces/README.md#user-content-workspaces-in-p4v) • [home](../README.md#user-content-gamemaker-studio-2-perforce) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -146,5 +146,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../)|
+| [previous](../workspaces/README.md#user-content-workspaces-in-p4v)| [home](../README.md#user-content-gamemaker-studio-2-perforce) | [next](../)|
 |---|---|---|
