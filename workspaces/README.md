@@ -48,25 +48,21 @@ Come up with your own **Workspace name**.  I usually combine the name of the str
 
 ##### `Step 5.`\|`GMP`| :small_orange_diamond:
 
+Select the **Advanced** tab.  Set **Modtime: ...** to `true` so that the timezone of each contributor is respected.  Set **Rmdir:** to `true` so empty folders are removed.  Then select in **On submit:** `Revert unchanged files`.  Set **Automatically get all revisions** to `true`. Now select <kbd>OK</kbd> to create this new workspace.
 
+![advanced workspace settings](images/advancedWorkspaces.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`GMP`| :small_orange_diamond: :small_blue_diamond:
 
-Now you can pick a **Workspace name:** starting with your P4 user name and the device I am using. I set mine to `maubanel-laptop`.  Try not to use spaces in your names as it will make it easier if you have to use command line.
 
-Select a folder to place it in.  I am putting it in the root of my only drive `c:\p4`. This folder does not have to exist as **P4V** will create it for you. Don't make the name too long.
-
-![p4 workspace on c drive](images/nameWorkspace.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`GMP`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select the **Advanced** tab.  Set **Modtime: ...** to `true` so that the timezone of each contributor is respected.  Set **Rmdir:** to `true` so empty folders are removed.  Then select in **On submit:** `Revert unchanged files`.  Set **Automatically get all revisions** to `true`. Now select <kbd>OK</kbd> to create this new workspace.
 
-![advanced workspace settings](images/advancedWorkspaces.png)
 
 ![](../images/line2.png)
 
